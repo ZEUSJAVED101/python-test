@@ -1,2 +1,2 @@
 # python-test
-test for python 
+simple addition program for test
